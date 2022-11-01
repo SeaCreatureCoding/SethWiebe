@@ -1,0 +1,4 @@
+- Hi! My name is Seth Wiebe!
+- I'm an aspiring programmer who mainly uses C++.
+- I know a little bit of Python as well, but rarely use it because as of late I've been working on projects involving memory manipulation and process hacking!
+- That's pretty much all!
